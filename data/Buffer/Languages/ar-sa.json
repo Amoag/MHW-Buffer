@@ -1,0 +1,160 @@
+{
+    "_IMPORTANT_NOTE": "إذا كان هناك عدة عناصر بنفس القيمة ولكن تتحكم بأشياء مختلفة، يجب أن تجعلها مختلفة باستخدام المسافات.",
+    
+    "window":{
+        "toggle_button": "تبديل واجهة المخزن المؤقت",
+        "title": "المعدِّلات والإعدادات",
+        "settings": "الإعدادات",
+        "language": "اللغة",
+        "font_size": "حجم الخط",
+        "font_size_apply": "تطبيق",
+        "about": "حول",
+        "author": "المؤلف",
+        "translator": "المترجم",
+        "version": "الإصدار"
+    },
+    "base": {
+        "disabled": "معطل"        
+    },
+    
+    "character": {
+        "title": "الصياد",
+        "stamina": {
+            "title": "القدرة التحملية",
+            "max": "أقصى تحمل",
+            "unlimited": "تحمل غير محدود"
+        },
+        "health": {
+            "title": "الصحة",
+            "max": "أقصى صحة",
+            "unlimited": "صحة غير محدودة",
+            "healing": "الشفاء",
+            "healing_tooltip": "أي صحة مفقودة ستصبح قابلة للاستعادة."
+        },
+        "blights_and_conditions":{
+            "title": "العلل والحالات",
+            "tooltip": "منع العلل والحالات",
+            "blights": {
+                "title": "العلل",
+                "fire": "نار",
+                "water": "ماء",
+                "ice": "جليد",
+                "thunder": "رعد",
+                "dragon": "تنين",
+                "all": "الكل"
+            },
+            "conditions":{
+                "title": "الحالات",
+                "poison": "سم",
+                "sleep": "نوم",
+                "paralyze": "شلل",
+                "blast": "انفجار",
+                "stun": "إغماء",
+                "defense_down": "انخفاض الدفاع",
+                "bleed": "نزيف",
+                "stench": "رائحة كريهة",
+                "sticky": "لاصق",
+                "frenzy": "هياج",
+                "frozen": "متجمد",
+                "all": "الكل"
+            }            
+        },
+        "item_buffs": {
+            "title": "تقوية العناصر",
+            "might_pill": "حبوب القوة",
+            "adamant_pill": "حبوب الصلابة",
+            "demon_powder": "مسحوق الشيطان",
+            "hardshell_powder": "مسحوق القشرة الصلبة",
+            "cool_drink": "مشروب بارد",
+            "hot_drink": "مشروب ساخن",
+            "dash_juice": "عصير السرعة",
+            "imunizer": "محفز المناعة"
+        },
+        "unlimited_sharpness": "حدة غير محدودة"
+    },
+
+    "great_sword": {
+        "title": "السيف العظيم",
+        "true_charge_boost": "تعزيز الشحن الحقيقي",
+        "true_charge_boost_tooltip": "الضربة الأولية من تعزيز الشحن الحقيقي",
+        "instant_charge": "شحن فوري"
+    },
+    "sword_and_shield": {
+        "title": "السيف والدرع"
+    },
+    "dual_blades": {
+        "title": "السيوف المزدوجة",
+        "demon_gauge": "مقياس الشيطان ممتلئ",
+        "demon_boost": "تنشيط تعزيز الشيطان"
+    },
+    "long_sword": {
+        "title": "السيف الطويل",
+        "aura_level": "مستوى الهالة",
+        "aura_level_tooltip": "إذا تم التغيير من 0 إلى 1، يجب عليك ملء المقياس لتفعيل الهالة",
+        "max_aura_gauge": "أقصى مقياس للهالة",
+        "max_spirit_gauge": "أقصى مقياس للروح"
+    },
+    "insect_glaive": {
+        "title": "رمح الحشرات",
+        "kinsect": {
+            "title": "حشرة كينسيكت",
+            "power": "القوة",
+            "speed": "السرعة",
+            "recovery": "الاستشفاء",
+            "unlimited_stamina": "تحمل غير محدود"
+        },
+        "red": "أحمر",
+        "orange": "برتقالي",
+        "white": "أبيض",
+        "infinite_air_dashes": "اندفاعات جوية غير محدودة"
+    },
+
+    "hammer": {
+        "title": "المطرقة",
+        "instant_charge": "شحن فوري"
+    },
+    "hunting_horn": {
+        "title": "البوق الصيادي"
+    },
+    
+    "lance": {
+        "title": "الرمح",
+        "counter_charge_level": "مستوى شحن الصد",
+        "rush_level": "مستوى الاندفاع",
+        "infinite_backstep": "رجوع غير محدود"
+    },
+    "gunlance": {
+        "title": "الرمح الناري",
+        "shell_level": "مستوى القذائف",
+        "infinite_wyvern_fire": "نار التنانين غير محدودة",
+        "infinite_backstep": "رجوع غير محدود",
+        "instant_charge": "شحن فوري", 
+        "instant_charge_tooltip": "يتطلب إبقائه للحظة ثم تركه لإطلاق النار",
+        "free_charge_shot": "طلقات مشحونة مجانية"
+    },
+
+    "bow": {
+        "title": "القوس"
+    },
+    "light_bowgun": {
+        "title": "قوس ناري خفيف"
+    },
+    "heavy_bowgun": {
+        "title": "قوس ناري ثقيل"
+    },
+
+    "charge_blade": {
+        "title": "النصل المشحون",
+        "max_phials": "أقصى عدد من القوارير",
+        "overcharge_phials": "شحن زائد للقوارير",
+        "shield_enhanced": "درع معزز",
+        "sword_enhanced": "سيف معزز",
+        "axe_enhanced": "فأس معزز"
+    },
+    "switch_axe": {
+        "title": "الفأس المتحول",
+        "max_charge": "أقصى شحن",
+        "max_sword_charge": "أقصى شحن للسيف",
+        "powered_axe": "فأس معزز"
+    }
+}
